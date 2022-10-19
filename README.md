@@ -47,6 +47,5 @@
 <div>
 </br>
 
-  ![Snake animation](https://github.com/44jovi/44jovi/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
