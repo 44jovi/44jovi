@@ -39,14 +39,15 @@
 
 ## My Blog
 
-- <a href="https://medium.com/@techjovi_" target="_blank">Medium - Jovi Lau-Kwong</a>
+<div align="left">
+  <a href="https://medium.com/@techjovi_" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<div align="left">
 
 ## Contact Me
 
-<div> 
-  <a href="https://www.linkedin.com/in/jovi-kwong" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://twitter.com/techjovi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</div>
+<div align="left">
+  <a href="https://medium.com/@techjovi_" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<div align="left">
 </br>
 
 ![github contribution grid snake animation - dark mode](https://raw.githubusercontent.com/44jovi/44jovi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
