@@ -37,6 +37,10 @@
 </div>
 </br>
 
+## My Blog
+
+- <a href="https://medium.com/@techjovi_" target="_blank">Medium - Jovi Lau-Kwong</a>
+
 ## Contact Me
 
 <div> 
