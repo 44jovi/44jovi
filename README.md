@@ -47,5 +47,5 @@
 <div>
 </br>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/44jovi/44jovi/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/44jovi/44jovi/output/github-snake-dark.svg#gh-dark-mode-only)
