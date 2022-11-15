@@ -2,11 +2,11 @@
 
 I'm driven to do meaningful work with technology to make a positive difference in the world.
 
+I recently graduated from a full-time, self-led, intensive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers.
+
 Seeking my first full-time role in software development with a focus on consistently improving myself day by day.
 
 Several years experience in coordinating marketing projects, working with multiple teams across a large organisation, and liaising with product engineers, customers, clients, partners, suppliers and other stakeholders.
-
-I recently graduated from a full-time, self-led, intensive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers. 
 
 I’m also an:
 
