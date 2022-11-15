@@ -13,8 +13,9 @@ I’m also an:
 - 🍜 Enthusiastic foodie
 - ☕ Coffee appreciation specialist
 - 🕹️ PC Gamer
-- 🎸🎹 Wannabe musician
-- 🛹Amateur concrete surfer
+- 🎸🥁🎹 Wannabe musician
+- 🛹 Amateur concrete surfer
+- 🧊 Rubik's Cube solver
 
 ---
 
