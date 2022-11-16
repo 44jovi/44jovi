@@ -1,6 +1,6 @@
-## Hi, I am Jovi! 👋
+## Hi, I am Jovi 👋
 
-I'm driven to do meaningful work with technology to make a positive difference in the world.
+Driven to do meaningful work with technology to make a positive difference in the world.
 
 I recently graduated from a full-time, self-led, intensive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers.
 
