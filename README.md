@@ -2,7 +2,7 @@
 
 Driven to do meaningful work with technology to make a positive difference in the world.
 
-I recently graduated from a full-time, self-led, intensive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers.
+I recently graduated from a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers.
 
 Seeking my first full-time role in software development with a focus on consistently improving myself day by day. Please see [my GitHub CV](https://github.com/44jovi/cv).
 
