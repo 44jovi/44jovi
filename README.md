@@ -2,11 +2,11 @@
 
 Driven to do meaningful work with technology to make a positive difference in the world.
 
-I recently graduated from a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers.
+Recent graduate of a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers.
 
-Seeking my first full-time role in software development with a focus on consistently improving myself day by day. Please see [my GitHub CV](https://github.com/44jovi/cv).
+Now seeking a full-time role in software development with a focus on delivering value and consistently improving myself. Please see [my GitHub CV](https://github.com/44jovi/cv).
 
-Several years experience in coordinating marketing projects, working with multiple teams across a large organisation, and liaising with product engineers, customers, clients, partners, suppliers and other stakeholders.
+Several years of experience in coordinating marketing projects, working with multiple teams across a large organisation, and liaising with product engineers, customers, clients, partners, suppliers and other stakeholders.
 
 I’m also an:
 
