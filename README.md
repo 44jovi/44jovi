@@ -13,13 +13,13 @@ I am also an:
 - 🍜 Enthusiastic foodie
 - ☕ Coffee appreciation specialist
 - 🕹️ PC Gamer
-- 🎸🥁🎹 Wannabe musician
-- 🛹 Amateur concrete surfer
+- 🎸🥁🎹 Occasional musician
+- 🛹 Concrete surfer
 - 🧊 Rubik's Cube solver
 
 ## My Experience
 
-Find out here in [my CV](https://github.com/44jovi/cv).
+[My CV](https://github.com/44jovi/cv)
 
 ## My Languages and Tools
 
