@@ -2,13 +2,13 @@
 
 Driven to do meaningful work with technology to make a positive difference in the world.
 
+Former group marketing and intellectual property manager of a global engineering/manufacturing organisation.
+
 Recent graduate of a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers.
 
-Now seeking a full-time role in software development with a focus on delivering value and consistently improving myself. Please see [my GitHub CV](https://github.com/44jovi/cv).
+Now passionate to begin a career in software development with a focus on making valuable contributions and continual self-improvement.
 
-Several years of experience in coordinating marketing projects, working with multiple teams across a large engineering organisation, and liaising with product engineers, customers, clients, partners, suppliers and other stakeholders.
-
-I’m also an:
+I am also an:
 
 - 🍜 Enthusiastic foodie
 - ☕ Coffee appreciation specialist
@@ -17,14 +17,9 @@ I’m also an:
 - 🛹 Amateur concrete surfer
 - 🧊 Rubik's Cube solver
 
----
+## My Experience
 
-<div>
-  <a href="https://github.com/44jovi">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=44jovi&layout=compact&langs_count=16&theme=dracula"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=44jovi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
-</br>
+Find out here in [my CV](https://github.com/44jovi/cv).
 
 ## My Languages and Tools
 
@@ -62,14 +57,12 @@ I’m also an:
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label="/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label="/>
 </div>
-</br>
 
 ## My Blog
 
 <div align="left">
-  <a href="https://medium.com/@techjovi_" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://medium.com/@techjovi_" target="_blank"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black"></a>
 </div>
-</br>
 
 ## Contact Me
 
@@ -77,7 +70,14 @@ I’m also an:
   <a href="https://www.linkedin.com/in/jovi-kwong" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://twitter.com/techjovi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
-</br>
+
+## My GitHub Stats
+
+<div>
+  <a href="https://github.com/44jovi">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=44jovi&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=44jovi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
 
 ![github contribution grid snake animation - dark mode](https://raw.githubusercontent.com/44jovi/44jovi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation - light mode](https://raw.githubusercontent.com/44jovi/44jovi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
