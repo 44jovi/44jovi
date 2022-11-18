@@ -6,7 +6,7 @@ Recent graduate of a full-time, self-led, immersive Software Engineering program
 
 Now seeking a full-time role in software development with a focus on delivering value and consistently improving myself. Please see [my GitHub CV](https://github.com/44jovi/cv).
 
-Several years of experience in coordinating marketing projects, working with multiple teams across a large organisation, and liaising with product engineers, customers, clients, partners, suppliers and other stakeholders.
+Several years of experience in coordinating marketing projects, working with multiple teams across a large engineering organisation, and liaising with product engineers, customers, clients, partners, suppliers and other stakeholders.
 
 I’m also an:
 
