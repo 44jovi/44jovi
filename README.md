@@ -19,7 +19,7 @@ I am also an:
 
 ## My Experience
 
-[My CV](https://github.com/44jovi/cv)
+- [My CV](https://github.com/44jovi/cv)
 
 ## My Languages and Tools
 
