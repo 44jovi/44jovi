@@ -36,8 +36,9 @@ I am also an:
 <div align="left">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label="/>
+  <img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=esbuild&color=222222&logo=esbuild&logoColor=FFCF00&label"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label="/>
   <img src="https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=Mongoose&logoColor=white"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+Sinatra&color=000000&logo=Ruby+Sinatra&logoColor=FFFFFF&label="/>
 </div>
