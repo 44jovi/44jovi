@@ -4,9 +4,9 @@ Lifelong learner driven to do meaningful work with technology to make a positive
 
 Former group marketing and intellectual property manager of a global engineering/manufacturing organisation.
 
-Recent graduate of a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers.
+Graduate of a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers.
 
-Now passionate to begin a career in software development with a focus on making valuable contributions and continual self-improvement.
+Now passionate about building a career in software development with a focus on making valuable contributions and continual self-improvement.
 
 I am also an:
 
