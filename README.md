@@ -4,9 +4,9 @@ Lifelong learner driven to do meaningful work with technology to make a positive
 
 Former group marketing and intellectual property manager of a global engineering/manufacturing organisation.
 
-Graduate of a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers.
+Graduate of a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers, building full stack web apps in agile teams, with a strong focus on: OOP, TDD, MVC, SOLID design principles, XP values and Git version control.
 
-Now passionate about building a career in software development with a focus on making high-value contributions and continual self-improvement. [My CV](https://github.com/44jovi/cv).
+Passionate about building a career in software development with a focus on making high-value contributions and continual self-improvement. [My CV](https://github.com/44jovi/cv).
 
 I am also an:
 
