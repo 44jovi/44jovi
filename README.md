@@ -1,17 +1,17 @@
 ## Hi, I am Jovi 👋
 
-Lifelong learner driven to do meaningful work with technology to make a positive difference in the world.
+**Lifelong learner driven to do meaningful work with technology to make a positive difference in the world.**
 
 Former group marketing and intellectual property manager of a global engineering/manufacturing organisation.
 
-Graduate of a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers, building full stack web apps in agile teams, with a strong focus on: OOP, TDD, MVC, SOLID design principles, XP values and Git version control.
+Graduate of a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), one of Europe's top software development training providers, building **full stack web apps** in **agile teams**, with a strong focus on: **OOP, TDD, MVC, SOLID** design principles, **XP values** and **Git** version control.
 
 Passionate about building a career in software development with a focus on making high-value contributions and continual self-improvement. [My CV](https://github.com/44jovi/cv).
 
 I am also an:
 
 - 🍜 Enthusiastic foodie
-- ☕ Coffee appreciation specialist
+- ☕ Coffee brewer
 - 🕹️ PC Gamer
 - 🎸🥁🎹 Occasional musician
 - 🛹 Concrete surfer
