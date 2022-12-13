@@ -79,8 +79,8 @@ I am also an:
 
 <div>
   <a href="https://github.com/44jovi">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=44jovi&layout=compact&langs_count=16&theme=dracula"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=44jovi&&count_private=true&show_icons=true&include_all_commits=true&theme=dracula"/>
+   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=44jovi&layout=compact&langs_count=16&theme=dracula"/>
+   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=44jovi&&count_private=true&show_icons=true&include_all_commits=true&theme=dracula"/>
 </div>
 
 ![github contribution grid snake animation - dark mode](https://raw.githubusercontent.com/44jovi/44jovi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
