@@ -11,7 +11,7 @@ Passionate about building a career in software development with a focus on makin
 I am also an:
 
 - 🍜 Enthusiastic foodie
-- ☕ Coffee brewer
+- ☕ Coffee brewer (AeroPress / French Press)
 - 🕹️ PC Gamer
 - 🎸🥁🎹 Occasional musician
 - 🛹 Concrete surfer
