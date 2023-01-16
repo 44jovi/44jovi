@@ -8,7 +8,7 @@ Graduate of a full-time, self-led, immersive Software Engineering program at [Ma
 
 Passionate about building a career in software development with a focus on making high-value contributions and continual self-improvement. [My CV](https://github.com/44jovi/cv).
 
-I am also an:
+## I'm an
 
 - 🍜 Enthusiastic foodie
 - ☕ Coffee brewer (AeroPress / French Press)
