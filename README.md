@@ -75,12 +75,5 @@ Passionate about building a career in software development with a focus on makin
   <a href="https://twitter.com/techjovi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
-## My GitHub Stats
-
-<div>
-  <a href="https://github.com/44jovi">
-   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=44jovi&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
 ![github contribution grid snake animation - dark mode](https://raw.githubusercontent.com/44jovi/44jovi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation - light mode](https://raw.githubusercontent.com/44jovi/44jovi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
