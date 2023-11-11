@@ -1,21 +1,21 @@
 ## Hi, I am Jovi 👋
 
-**Lifelong learner and problem solver - driven to do meaningful work with technology.**
+**Lifelong learner, lifelong problem solver.**
 
-Former marketing and intellectual property manager of a global engineering/manufacturing group.
+Full Stack Software Engineer - currently engaged in commercial backend development with a focus on RESTful API's (Java Spring) and CI/CD pipelines / cloud deployment (AWS, Docker).
+
+Career switcher with a diverse professional and personal background.
 
 Graduate of a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), building **full stack web apps** in **agile teams**, with a strong focus on: **OOP, TDD, MVC, SOLID** design principles, **XP values** and **Git** version control.
 
-Passionate about building a career in software development with a focus on making high-value contributions and continual self-improvement. [My CV](https://github.com/44jovi/cv).
+## My Interests
 
-## I'm an
-
-- 🍜 Enthusiastic eater
-- ☕ Coffee brewer (AeroPress / French Press)
-- 🕹️ PC Gamer
-- 🎸🥁🎹 Occasional musician
-- 🛹 Concrete surfer
-- 🧊 Rubik's Cube twister
+- 📕 Reading
+- 🎸🥁🎹 Guitar / music
+- ☕ Coffee brewing
+- 🕹️ PC gaming
+- 🛹 Concrete surfing
+- 🧊 Rubik's cube twisting
 
 ## My Experience
 
