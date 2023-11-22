@@ -17,10 +17,6 @@ Graduate of a full-time, self-led, immersive Software Engineering program at [Ma
 - 🛹 Concrete Surfing
 - 🧊 Rubik's Cube Twisting
 
-## My Experience
-
-- [My CV](https://github.com/44jovi/cv)
-
 ## My Languages and Tools
 
 ### Backend
