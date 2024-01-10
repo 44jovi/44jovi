@@ -1,12 +1,17 @@
 ## Hi, I am Jovi 👋
 
-**Lifelong learner, lifelong problem solver.**
+**Software Engineer - Lifelong Learner, Lifelong Problem Solver.** 
 
-**Full Stack Software Engineer** - currently engaged in **commercial backend development** with a focus on **RESTful API's** (**Java Spring Boot / Spring Security**), **Microservices** and **CI/CD Pipelines** / **Cloud Deployments** (incl. **AWS**, **Docker**).
+Highly diverse professional and personal background / experience.
 
-Highly diverse professional and personal background.
+Alumnus of a full-time, immersive Software Engineering program at [Makers](https://makers.tech/) - building **full stack web apps** in **Agile teams**, with a strong focus on: **SOLID, OOP, TDD, MVC** design principles, **XP values** and **collaborative version control (Git)**.
 
-Alumnus of a full-time, immersive Software Engineering program at [Makers](https://makers.tech/) - building **full stack web apps** in **agile teams**, with a strong focus on: **SOLID, OOP, TDD, MVC** design principles, **XP values** and **collaborative version control (Git)**.
+## My Current focus
+- Backend Development / RESTful API's
+- Microservices
+- DevOps / CI/CD Pipelines / Cloud Deployments
+- Software Design Patterns
+- Software Security / Cybersecurity
 
 ## My Interests
 
