@@ -2,20 +2,22 @@
 
 **Lifelong learner, lifelong problem solver.**
 
-**Full Stack Software Engineer** - currently engaged in **commercial backend development** with a focus on **RESTful API's** (**Java Spring**) and **CI/CD pipelines** / **cloud deployment** (**AWS**, **Docker**).
+**Full Stack Software Engineer** - currently engaged in **commercial backend development** with a focus on **RESTful API's** (**Java Spring Boot / Spring Security**), **Microservices** and **CI/CD Pipelines** / **Cloud Deployments** (incl. **AWS**, **Docker**).
 
-Career switcher with a diverse professional and personal background.
+Highly diverse professional and personal background.
 
-Graduate of a full-time, self-led, immersive Software Engineering program at [Makers](https://makers.tech/), building **full stack web apps** in **agile teams**, with a strong focus on: **OOP, TDD, MVC, SOLID** design principles, **XP values** and **Git** version control.
+Alumnus of a full-time, immersive Software Engineering program at [Makers](https://makers.tech/) - building **full stack web apps** in **agile teams**, with a strong focus on: **SOLID, OOP, TDD, MVC** design principles, **XP values** and **collaborative version control (Git)**.
 
 ## My Interests
 
 - 📕 Reading
+- 💓 Health & Fitness
 - 🎸🥁🎹 Guitar / Music
-- ☕ Coffee Brewing
-- 🕹️ PC Gaming
-- 🛹 Concrete Surfing
+- ♟ Chess Puzzles
 - 🧊 Rubik's Cube Twisting
+- 🕹️ PC Gaming
+- ☕ Coffee Brewing
+- 🛹 Concrete Surfing
 
 ## My Languages and Tools
 
