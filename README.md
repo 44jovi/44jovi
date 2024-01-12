@@ -2,7 +2,7 @@
 
 **Software Engineer - Lifelong Learner, Lifelong Problem Solver.** 
 
-Highly diverse professional and personal background / experience.
+Multifaceted professional and personal background / experience.
 
 Alumnus of a full-time, immersive Software Engineering program at [Makers](https://makers.tech/) - building **full stack web apps** in **Agile teams**, with a strong focus on: **SOLID, OOP, TDD, MVC** design principles, **XP values** and **collaborative version control (Git)**.
 
