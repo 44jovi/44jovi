@@ -1,19 +1,17 @@
 ## Hi, I am Jovi 👋
 
-**Software Engineer - Lifelong Learner, Lifelong Problem Solver.** 
-
-Multifaceted professional and personal background / experience.
+**Lifelong Learner** 
 
 Currently developing backend fintech microservices / API's.
 
-## My Current focus
-- Backend Development / RESTful API's
+## Current focus
+- Backend Development / API's
 - Microservices
 - DevOps / CI/CD Pipelines / Cloud Deployments
 - Software Design Patterns
 - Software Security / Cybersecurity
 
-## My Interests
+## Interests
 
 - 📕 Reading
 - 💓 Health & Fitness
